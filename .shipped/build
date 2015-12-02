@@ -1,4 +1,4 @@
 #!/bin/bash
-npm install -g
-
+npm install
+cp -R node_modules/ /tmp/node_modules/
 
